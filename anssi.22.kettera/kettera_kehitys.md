@@ -1,3 +1,24 @@
+---
+Tekijä: Anssi Leskinen
+Päivämäärä: 2026-01-08
+Aihe: Ketterä kehitys
+Kurssi: Ohjelmistokehitys
+---
+
+# Ketterä kehitys - Vastaukset
+
+## Sisällysluettelo
+1. [Mitä ketterällä kehityksellä tarkoitetaan?](#mitä-ketterällä-kehityksellä-tarkoitetaan)
+2. [Mitä menetelmää käytettiin ennen ketterää kehitystä?](#mitä-menetelmää-käytettiin-ennen-ketterää-kehitystä)
+3. [Miksi ketterään kehitykseen on siirrytty?](#miksi-ketterään-kehitykseen-on-siirrytty)
+4. [Kerro lyhyesti Agilesta sekä mitä siinä määritellään?](#kerro-lyhyesti-agilesta-sekä-mitä-siinä-määritellään)
+5. [Mitä ovat Scrum ja Kanban?](#mitä-ovat-scrum-ja-kanban)
+6. [Miten Scrumin ja Kanbanin olennainen ero?](#miten-scrumin-ja-kanbanin-olennainen-ero)
+7. [Miten Jira liittyy ketterään kehitykseen?](#miten-jira-liittyy-ketterään-kehitykseen)
+8. [Miten Git edistää ketterää kehitystä?](#miten-git-edistää-ketterää-kehitystä)
+
+---
+
 # Ketterä kehitys - Vastaukset
 
 ## Mitä ketterällä kehityksellä tarkoitetaan?
